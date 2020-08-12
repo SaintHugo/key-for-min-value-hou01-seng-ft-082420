@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
 name_hash.count do |key, value|
   if value > min
 return key
-else min =
+else min = ()
 end
 end
 min
