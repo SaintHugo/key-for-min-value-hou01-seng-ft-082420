@@ -7,4 +7,3 @@ name_hash.count do |key, value|
   if value > min
 return key
 else min =
-end
