@@ -8,4 +8,3 @@ name_hash.count do |key, value|
 end
 end
 min
-end
