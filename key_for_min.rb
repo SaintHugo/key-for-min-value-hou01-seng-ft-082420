@@ -9,5 +9,4 @@ return key
 else min =
 end
 end
-min
 end
