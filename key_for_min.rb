@@ -6,7 +6,5 @@ name_hash.count do |key, value|
   if name_hash.count > min
 min = name_hash.count
 end
+end
 min
-end
-
-end
