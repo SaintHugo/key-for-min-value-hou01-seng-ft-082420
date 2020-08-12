@@ -8,3 +8,4 @@ min = name_hash.count
 end
 end
 min
+end
