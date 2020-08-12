@@ -3,8 +3,8 @@
 min = ""
 def key_for_min_value(name_hash)
 name_hash.count do |key, value|
-  if key < name_hash.count
-min = key
+  if name_hash.count > min
+min = name_hash.count
 end
 min
 end
